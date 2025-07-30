@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/websocket-chat-app/static/css/main.f855e6bc.css",
+    "main.js": "/websocket-chat-app/static/js/main.d12b502e.js",
+    "static/js/453.47b4b877.chunk.js": "/websocket-chat-app/static/js/453.47b4b877.chunk.js",
+    "index.html": "/websocket-chat-app/index.html",
+    "main.f855e6bc.css.map": "/websocket-chat-app/static/css/main.f855e6bc.css.map",
+    "main.d12b502e.js.map": "/websocket-chat-app/static/js/main.d12b502e.js.map",
+    "453.47b4b877.chunk.js.map": "/websocket-chat-app/static/js/453.47b4b877.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.d12b502e.js"
+  ]
+}
